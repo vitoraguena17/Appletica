@@ -28,4 +28,4 @@ A ferramenta oferece uma interface intuitiva e funcional, facilitando a gestão 
 
 Vitor Matos Matsumoto Aguena
 
-https://www.linkedin.com/in/vitor-matos-matsumoto-aguena-019179269/
+https://www.linkedin.com/in/vitoraguena/
