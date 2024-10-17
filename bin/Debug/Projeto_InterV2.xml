@@ -1,0 +1,141 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Projeto_InterV2
+</name>
+</assembly>
+<members>
+<member name="T:Projeto_InterV2.My.Resources.Resources">
+<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+<member name="P:Projeto_InterV2.My.Resources.Resources.ResourceManager">
+<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member>
+<member name="P:Projeto_InterV2.My.Resources.Resources.Culture">
+<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member>
+<member name="P:Projeto_InterV2.My.Resources.Resources.APPTLETICA_LOGO_NOME">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_InterV2.My.Resources.Resources.icons8_arrow_30">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_InterV2.My.Resources.Resources.icons8_config_50">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_InterV2.My.Resources.Resources.icons8_delete_30">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_InterV2.My.Resources.Resources.icons8_email_30">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_InterV2.My.Resources.Resources.icons8_exit_50">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_InterV2.My.Resources.Resources.icons8_exit_black_50">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_InterV2.My.Resources.Resources.icons8_financial_30">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_InterV2.My.Resources.Resources.icons8_layers_30">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_InterV2.My.Resources.Resources.icons8_layers_301">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_InterV2.My.Resources.Resources.icons8_more_than_50">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_InterV2.My.Resources.Resources.icons8_name_30">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_InterV2.My.Resources.Resources.icons8_name_301">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_InterV2.My.Resources.Resources.icons8_outline_30">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_InterV2.My.Resources.Resources.icons8_password_30">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_InterV2.My.Resources.Resources.icons8_right_arrow_50">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_InterV2.My.Resources.Resources.icons8_sales_30">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_InterV2.My.Resources.Resources.icons8_sport_48">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_InterV2.My.Resources.Resources.icons8_team_24">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_InterV2.My.Resources.Resources.icons8_white_name_30">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_InterV2.My.Resources.Resources.Logo_Apptletica">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_InterV2.My.Resources.Resources.Logo_Apptletica__1_">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Projeto_InterV2.My.Resources.Resources.LOGO_SEM_NOME">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
